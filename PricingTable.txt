@@ -1,2 +1,1 @@
 PricingTable
-new code added
